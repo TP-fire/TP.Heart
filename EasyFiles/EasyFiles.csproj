@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Version>0.1.0</Version>
+    <Authors>TP-fire</Authors>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageReadmeFile>EasyFiles.md</PackageReadmeFile>
+    <description>文件操作类《nuget官网搜索EasyFiles查看readme.md详细解析》</description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="EasyFiles.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+</Project>

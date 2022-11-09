@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\code\\self\\GitHub\\TP.Heart\\EasyFiles\\EasyFiles.csproj": {}
+  },
+  "projects": {
+    "E:\\code\\self\\GitHub\\TP.Heart\\EasyFiles\\EasyFiles.csproj": {
+      "version": "0.1.0",
+      "restore": {
+        "projectUniqueName": "E:\\code\\self\\GitHub\\TP.Heart\\EasyFiles\\EasyFiles.csproj",
+        "projectName": "EasyFiles",
+        "projectPath": "E:\\code\\self\\GitHub\\TP.Heart\\EasyFiles\\EasyFiles.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\code\\self\\GitHub\\TP.Heart\\EasyFiles\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://www.myget.org/F/dapper/api/v3/index.json": {},
+          "https://www.myget.org/F/luxbaize/api/v3/index.json": {},
+          "https://www.myget.org/F/skyapm-dotnet/api/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

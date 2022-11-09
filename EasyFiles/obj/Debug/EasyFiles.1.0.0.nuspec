@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EasyFiles</id>
+    <version>1.0.0</version>
+    <authors>EasyFiles</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\code\self\TP.Heart\EasyFiles\bin\Debug\net6.0\EasyFiles.dll" target="lib\net6.0\EasyFiles.dll" />
+  </files>
+</package>
